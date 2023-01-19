@@ -1,4 +1,12 @@
-# ExCrypto
+# ex_crypto
+
+Wrapper around the Erlang crypto module for Elixir.
+
+# Reason for fork
+
+It is not clear why it was forked, because there were no changes been made. 
+
+# Oficial readme
 
 The goal of `ExCrypto` and `ExPublicKey` is to expose a subset of the functionality from the Erlang modules `crypto` and `public_key` so that writing secure Elixir applications is a little bit easier without being overwhelming. In many functions some sane defaults are provided to decrease the complexity of implementing those functions in your own code.
 
