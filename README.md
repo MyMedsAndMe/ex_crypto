@@ -1,4 +1,4 @@
-# ex_crypto
+# ex_crypto [DEPRECATED]
 
 Wrapper around the Erlang crypto module for Elixir.
 
